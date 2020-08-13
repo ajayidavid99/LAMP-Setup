@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#My HelloWd script
+
+echo "My HelloWd scrpit starts here"
+
+let mN=400
+
+echo $mN
+wget https://github.com/ajayidavid99/LAMP-Setup.git
