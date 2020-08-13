@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "WIll you like to add a sudo user?"
+read sudo_user_que
